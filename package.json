@@ -1,0 +1,17 @@
+{
+  "name": "typing-helpers",
+  "version": "0.0.0",
+  "description": "Just some ts typing helpers",
+  "keywords": [
+    "ts",
+    "typescript",
+    "typing",
+    "typings",
+    "helpers"
+  ],
+  "author": "JounQin <admin@1stg.me> (https://www.1stG.me)",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
